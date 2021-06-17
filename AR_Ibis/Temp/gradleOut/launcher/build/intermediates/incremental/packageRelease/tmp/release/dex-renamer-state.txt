@@ -1,0 +1,4 @@
+#Thu Jun 17 08:55:40 CDT 2021
+base.0=C\:\\Users\\Emmanuel\\Documents\\GitHub\\EyesTracking\\AR_Ibis\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
